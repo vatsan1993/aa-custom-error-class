@@ -1,0 +1,1 @@
+# aa-custom-error-class
